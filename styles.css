@@ -125,7 +125,7 @@ li{
     }
     img{
         max-width: 100%;
-        max-height: 250px;
+        max-height: 200px;
     }
     #box2 h1{
         font-size: 24px;
@@ -136,6 +136,6 @@ li{
     }
 
     #box1{
-        max-height: 250px;
+        max-height: 200px;
     }
 }
